@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 90vh;
-  background-color:lightblue ;
+  background-color:gray ;
   display: flex;
   justify-content: center;
   align-items: center;
